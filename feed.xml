@@ -3,7 +3,7 @@
     <title>scottbarbieri</title>
     <link href="https://scottbarbieri.com/feed.xml" rel="self" />
     <link href="https://scottbarbieri.com" />
-    <updated>2024-02-24T21:52:13-05:00</updated>
+    <updated>2024-02-25T16:40:00-05:00</updated>
     <author>
         <name>Scott</name>
     </author>
@@ -17,16 +17,27 @@
         <link href="https://scottbarbieri.com/first-test-port.html"/>
         <id>https://scottbarbieri.com/first-test-port.html</id>
 
-        <updated>2024-02-24T21:52:13-05:00</updated>
+        <updated>2024-02-25T16:40:00-05:00</updated>
             <summary>
                 <![CDATA[
-                    testing publii
+                    testing publii - generated using craiyon Ai image generator. This is Totoro in the scream painting. Gallery Test: Stowe Mist
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>testing publii</p>
+                <p>testing publii - generated using craiyon Ai image generator.  This is Totoro in the scream painting.</p>
 <figure class="post__image"><img loading="lazy"  src="https://scottbarbieri.com/media/posts/1/craiyon_212152_totoro_in_comic_style_in_the_scream_painting.png" alt="" width="256" height="256" sizes="100vw" srcset="https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-xs.png 300w ,https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-sm.png 480w ,https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-md.png 768w ,https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-lg.png 1024w ,https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-xl.png 1360w ,https://scottbarbieri.com/media/posts/1/responsive/craiyon_212152_totoro_in_comic_style_in_the_scream_painting-2xl.png 1600w"></figure>
+<h1>Gallery Test:</h1>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://scottbarbieri.com/media/posts/1/gallery/2013-02-10-12.37.02.jpg" data-size="6224x2332"><img loading="lazy" src="https://scottbarbieri.com/media/posts/1/gallery/2013-02-10-12.37.02-thumbnail.jpg" alt="" width="720" height="270"></a>
+<figcaption>Stowe</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://scottbarbieri.com/media/posts/1/gallery/2013-01-30-08.32.03.jpg" data-size="3264x2448"><img loading="lazy" src="https://scottbarbieri.com/media/posts/1/gallery/2013-01-30-08.32.03-thumbnail.jpg" alt="" width="720" height="540"></a>
+<figcaption>Mist</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://scottbarbieri.com/media/posts/1/gallery/IMG_4280.jpg" data-size="4032x3024"><img loading="lazy" src="https://scottbarbieri.com/media/posts/1/gallery/IMG_4280-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://scottbarbieri.com/media/posts/1/gallery/IMG_4551.JPG" data-size="4032x3024"><img loading="lazy" src="https://scottbarbieri.com/media/posts/1/gallery/IMG_4551-thumbnail.JPG" alt="" width="720" height="540"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
