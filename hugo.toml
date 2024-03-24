@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://scottbarbieri.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Crow'
 theme = 'ananke'
+
+[params]
+  site_logo = "/crow.icon.png"
+recent_posts_number = 7
