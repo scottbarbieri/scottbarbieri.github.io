@@ -1,7 +1,8 @@
 +++
 title = 'My First Page'
 date = 2024-03-23T18:31:38-04:00
-draft = false
+featured_image = "/sunny.ice.trees.jpeg"
+draft = true
 +++
 ## introduction
 

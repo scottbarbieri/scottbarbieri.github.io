@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Mar 2024 18:31:38 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Page</title>
+      <link>http://localhost:1313/posts/my-first-page/</link>
+      <pubDate>Sat, 23 Mar 2024 18:31:38 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-page/</guid>
+      <description>introduction this is Bold and this is italic&#xA;this is a list onther dot a sub-dot antoehr back to the starrt one two one three four dot </description>
+    </item>
   </channel>
 </rss>
